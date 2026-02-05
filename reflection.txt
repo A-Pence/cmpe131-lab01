@@ -1,0 +1,1 @@
+"The reason why brahches are so powerful is that it allows each member working on the code to have their own instanecd version of the original code. This allows them to edit, debug, and experiment with the code without affecting the original code. causing less issues to be in the original code as there are not constant edits made to it." 
